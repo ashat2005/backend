@@ -23,3 +23,4 @@ for i in item:
     print(i)
 db.commit()
 db.close()
+print("COM")
